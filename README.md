@@ -10,8 +10,8 @@
 ## 技能
 
 - **编程语言**: Java, Python
-- **框架和库**: Spring Framework, Hibernate, Maven
-- **数据库**: MySQL, PostgreSQL
+- **框架和库**: Spring Boot, Spring Clould
+- **数据库**: MySQL, Redis
 - **版本控制**: Git
 - **其他**: RESTful API 设计，面向对象编程（OOP），数据结构与算法
 
