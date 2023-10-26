@@ -1,8 +1,11 @@
-# Sivan 的 GitHub 个人主页
+# 你好，我是Sivan 👋
 
 ## 关于我
 
-嗨，我是 Sivan，一名梦想成为 Java 开发者的编程爱好者。我热衷于编写高效、可维护的 Java 代码，并不断扩展我的技能和知识。
+- 💻 我目前担任Java开发工程师实习生，之前曾经在稀土掘金技术社区担任过校园大使；
+- 🚀 我热爱编程和学习新技术，我会使用Java、Spring Boot、MySQL等技术栈开发后端应用；
+- 🌱 我正在学习分布式相关技术，希望能提升自己的技能和水平；
+- ⚽ 我喜欢足球，是曼城队的忠实粉丝
 
 ## 技能
 
@@ -23,15 +26,13 @@
 
 我的目标是不断提高我的 Java 开发技能，成为一名有贡献的开发者。我计划学习更多的框架和工具，深入了解数据库设计，以及不断优化我的编码技巧。
 
-## 联系方式
 
-- 电子邮件：sivan@example.com
-- LinkedIn：[Sivan的LinkedIn](https://www.linkedin.com/in/sivan)
-- Twitter：[@SivanCoding](https://twitter.com/SivanCoding)
+## 我的技能
 
-## 许可证
+! [Java] (8)
+! [Spring Boot] (9)
+! [MySQL] (10)
+...
 
-我的开源项目遵循 [MIT 许可证](链接)，请随时访问并使用。
 
-感谢您访问我的 GitHub 个人主页！如果您有任何问题、建议或想合作，欢迎随时联系我。
 
