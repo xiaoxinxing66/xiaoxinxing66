@@ -19,8 +19,8 @@
 
 这是一些我在 GitHub 上的开源项目，欢迎查看和贡献：
 
-- [项目1名称](链接)
-- [项目2名称](链接)
+- [MealMate——饮食社交APP](https://github.com/xiaoxinxing66/MealMate)
+- [校园交流平台](https://github.com/xiaoxinxing66/Campus_communication_platform)
 
 # Our Team - Manchester City
 
