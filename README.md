@@ -29,5 +29,5 @@
 ![image](https://github.com/xiaoxinxing66/xiaoxinxing66/assets/93857716/3dc8cc6b-9c1b-477e-ba76-24f11aa42920)
 
 
-## Our plays
+## Our players
 ![image](https://github.com/xiaoxinxing66/xiaoxinxing66/assets/93857716/bc177d04-2244-4be5-bc73-76eed3e91f0f)
