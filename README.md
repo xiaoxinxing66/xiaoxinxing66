@@ -20,6 +20,10 @@
 这是一些我在 GitHub 上的开源项目，欢迎查看和贡献：
 
 - [MealMate——饮食社交APP](https://github.com/xiaoxinxing66/MealMate)
+- [Sivan_Cache](https://github.com/xiaoxinxing66/Sivan_Cache)
+
+个人独立开发的小平台，如果你感兴趣，可以部署到自己的服务器上。
+
 - [校园交流平台](https://github.com/xiaoxinxing66/Campus_communication_platform)
 
 # Our Team - Manchester City
