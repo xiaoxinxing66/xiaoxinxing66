@@ -1,4 +1,4 @@
-# 你好，我是Sivan 👋 【部分介绍由 Chat-GPT4 turbo 128K 生成】
+# 你好，我是Sivan 👋 【部分介绍由 Chat-GPT4 turbo 128K 生成 can you find】
 
 ## 关于我
 
