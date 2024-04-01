@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sivan!
 
-🚀 **Chat-GPT4 turbo 128K** 免费使用可联系 2507932331@qq.com
+🚀 **Chat-GPT4 turbo 128K** Free Used 2507932331@qq.com
 
 ## About Me
 
@@ -22,7 +22,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxinxing66)](https://github.com/anuraghazra/github-readme-stats)
 
-## 项目
+## My latest projects
 
 Check out and contribute to my open-source projects on GitHub: 🌟💻 #OpenSource #GitHub #DevCommunity
 
