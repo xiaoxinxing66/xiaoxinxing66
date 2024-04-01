@@ -9,7 +9,7 @@
 - 🌱 Diving into distributed tech to level up my skills.
 - ⚽ Avid football fan and loyal supporter of @ManCity. #TeamBlue
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxinxing66&count_private=true&show_icons=true&theme=radical&hide=total_issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxinxing66&count_private=true&show_icons=true&theme=radical&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tech Stack
