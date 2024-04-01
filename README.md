@@ -9,7 +9,7 @@
 - 🌱 Diving into distributed tech to level up my skills.
 - ⚽ Avid football fan and loyal supporter of @ManCity. #TeamBlue
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxinxing66&count_private=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxinxing66&count_private=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=issues)](https://github.com/xiaoxinxing66)
 
 
 ## Tech Stack
@@ -20,17 +20,18 @@
 - **Version Control**: Versioning code with #Git 🔄
 - **More Skills**: Crafting #RESTful APIs, applying #OOP principles & solving puzzles with data structures & algorithms 🧠💻
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxinxing66)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxinxing66)](https://github.com/xiaoxinxing66)
 
 ## My latest projects
 
 Check out and contribute to my open-source projects on GitHub: 🌟💻 #OpenSource #GitHub #DevCommunity
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=Sivan_Cache)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=MealMate)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=Sivan_Cache)](https://github.com/xiaoxinxing66/Sivan_Cache)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=MealMate)](https://github.com/xiaoxinxing66/MealMate)
 
 Personal solo project up for grabs! If you're interested, you're welcome to deploy it on your own server. 🚀 #DIY #ServerSide #DeveloperFun
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=Campus_communication_platform)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=Campus_communication_platform)](https://github.com/xiaoxinxing66/Campus_communication_platform)
 
 
 # Our Team - Manchester City
