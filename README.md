@@ -11,7 +11,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxinxing66&count_private=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=issues)](https://github.com/xiaoxinxing66)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wang-you-xin&CN)](https://leetcode.cn/u/wang-you-xin/)
+[![leetCode](https://stats.justsong.cn/api/leetcode?username=网友鑫&cn=true)](https://leetcode.cn/u/wang-you-xin/)
 
 
 ## Tech Stack
