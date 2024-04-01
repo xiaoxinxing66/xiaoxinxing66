@@ -26,9 +26,7 @@
 
 Check out and contribute to my open-source projects on GitHub: 🌟💻 #OpenSource #GitHub #DevCommunity
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=Sivan_Cache)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=MealMate)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=Sivan_Cache)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=MealMate)](https://github.com/anuraghazra/github-readme-stats)
 
 Personal solo project up for grabs! If you're interested, you're welcome to deploy it on your own server. 🚀 #DIY #ServerSide #DeveloperFun
 
