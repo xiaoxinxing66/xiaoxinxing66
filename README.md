@@ -9,6 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxinxing66&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ## 技能
 
 - **编程语言**: Java, Python
@@ -20,13 +21,13 @@
 ## 项目
 
 这是一些我在 GitHub 上的开源项目，欢迎查看和贡献：
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=Sivan_Cache)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=MealMate)](https://github.com/anuraghazra/github-readme-stats)
 
-- [Sivan_Cache](https://github.com/xiaoxinxing66/Sivan_Cache)
-- [MealMate——饮食社交APP](https://github.com/xiaoxinxing66/MealMate)
-  
 个人独立开发的小平台，如果你感兴趣，可以部署到自己的服务器上。
 
-- [校园交流平台](https://github.com/xiaoxinxing66/Campus_communication_platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=Campus_communication_platform)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Our Team - Manchester City
 
