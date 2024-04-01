@@ -24,13 +24,13 @@
 
 ## 项目
 
-这是一些我在 GitHub 上的开源项目，欢迎查看和贡献：
+Check out and contribute to my open-source projects on GitHub: 🌟💻 #OpenSource #GitHub #DevCommunity
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=Sivan_Cache)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=MealMate)](https://github.com/anuraghazra/github-readme-stats)
 
-个人独立开发的小平台，如果你感兴趣，可以部署到自己的服务器上。
+Personal solo project up for grabs! If you're interested, you're welcome to deploy it on your own server. 🚀 #DIY #ServerSide #DeveloperFun
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinxing66&repo=Campus_communication_platform)](https://github.com/anuraghazra/github-readme-stats)
 
