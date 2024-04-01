@@ -11,13 +11,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxinxing66&count_private=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=issues)](https://github.com/xiaoxinxing66)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=网友鑫)](https://leetcode.cn/u/wang-you-xin/)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wang-you-xin)](https://leetcode.cn/u/wang-you-xin/)
 
 
 ## Tech Stack
 
 - **Programming**: Proficient in #Java & #Python 🐍
-- **Frameworks & Libraries**: Building with #SpringBoot and #SpringCloud ☁️
+- **
+Frameworks & Libraries**: Building with #SpringBoot and #SpringCloud ☁️
 - **Databases**: Managing data with #MySQL & #Redis 🔌
 - **Version Control**: Versioning code with #Git 🔄
 - **More Skills**: Crafting #RESTful APIs, applying #OOP principles & solving puzzles with data structures & algorithms 🧠💻
