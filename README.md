@@ -1,7 +1,6 @@
 # 你好，我是Sivan 👋 
 
-# 广告
-🚀 **Chat-GPT4 turbo 128K** 免费使用可私信
+🚀 **Chat-GPT4 turbo 128K** 免费使用可联系 2507932331@qq.com
 
 ## 关于我
 
