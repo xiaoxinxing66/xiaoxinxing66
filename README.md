@@ -23,7 +23,6 @@ Frameworks & Libraries**: Building with #SpringBoot and #SpringCloud ☁️
 - **Version Control**: Versioning code with #Git 🔄
 - **More Skills**: Crafting #RESTful APIs, applying #OOP principles & solving puzzles with data structures & algorithms 🧠💻
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxinxing66)](https://github.com/xiaoxinxing66)
 
 ## My latest projects
 
