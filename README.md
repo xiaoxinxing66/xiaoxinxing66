@@ -20,6 +20,8 @@
 - **数据库**: MySQL, Redis
 - **版本控制**: Git
 - **其他**: RESTful API 设计，面向对象编程（OOP），数据结构与算法
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxinxing66)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 项目
 
