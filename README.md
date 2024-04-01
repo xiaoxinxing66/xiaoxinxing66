@@ -7,7 +7,7 @@
 - 🌱 我正在学习分布式相关技术，希望能提升自己的技能和水平；
 - ⚽ 我喜欢足球，是曼城队的忠实粉丝
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxinxing66)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxinxing66&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 技能
 
