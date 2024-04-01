@@ -1,24 +1,24 @@
-# 你好，我是Sivan 👋 
+# Hi there 👋, I'm Sivan!
 
 🚀 **Chat-GPT4 turbo 128K** 免费使用可联系 2507932331@qq.com
 
-## 关于我
+## About Me
 
-- 💻 我目前担任Java开发工程师实习生，之前曾经在稀土掘金技术社区担任过校园大使；
-- 🚀 我热爱编程和学习新技术，我会使用Java、Spring Boot、MySQL等技术栈开发后端应用；
-- 🌱 我正在学习分布式相关技术，希望能提升自己的技能和水平；
-- ⚽ 我喜欢足球，是曼城队的忠实粉丝
+- 💻 Current Java Developer Intern with past experience as a Campus Ambassador for the tech community at @Juejin.
+- 🚀 Passionate about coding & mastering new tech. Crafting backend applications with Java, Spring Boot, & MySQL.
+- 🌱 Diving into distributed tech to level up my skills.
+- ⚽ Avid football fan and loyal supporter of @ManCity. #TeamBlue
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxinxing66&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 技能
+## Tech Stack
 
-- **编程语言**: Java, Python
-- **框架和库**: Spring Boot, Spring Clould
-- **数据库**: MySQL, Redis
-- **版本控制**: Git
-- **其他**: RESTful API 设计，面向对象编程（OOP），数据结构与算法
+- **Programming**: Proficient in #Java & #Python 🐍
+- **Frameworks & Libraries**: Building with #SpringBoot and #SpringCloud ☁️
+- **Databases**: Managing data with #MySQL & #Redis 🔌
+- **Version Control**: Versioning code with #Git 🔄
+- **More Skills**: Crafting #RESTful APIs, applying #OOP principles & solving puzzles with data structures & algorithms 🧠💻
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxinxing66)](https://github.com/anuraghazra/github-readme-stats)
 
