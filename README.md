@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Sivan! 👋</h1>
-  <h3>🚀 Java Backend Developer | ☁️ Cloud Native Enthusiast | ⚽ Man City Supporter</h3>
+  <h3>🚀 Java Backend Developer | 😁 CSDN Blogger | ⚽ Man City Supporter</h3>
 
   <p>
     Currently working as a <b>Software Engineer</b>. <br>
@@ -31,11 +31,13 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 LeetCode Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiaoxinxing66&count_private=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&hide=issues" height="150" alt="Sivan's Stats" />
-  <img src="https://leetcard.jacoblin.cool/wang-you-xin?theme=dark&font=ABeeZee&ext=activity" height="150" alt="LeetCode Stats" />
+  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/wang-you-xin?theme=light&font=ABeeZee&ext=activity&site=cn)
+
 </div>
 
 <br/>
